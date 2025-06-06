@@ -23,6 +23,4 @@ python weather.py
 
 - 你需要先去 [https://openweathermap.org/](https://openweathermap.org/) 申请一个 API Key，并填入代码中。
 
-## License
-
-MIT License
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
